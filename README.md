@@ -22,3 +22,6 @@
 - OpenAI API
 - LangGraph
 - python-dotenv
+
+## 구현 예시
+<img width="1797" height="812" alt="20260326_003827033" src="https://github.com/user-attachments/assets/5e008dba-28c0-41e2-9be0-cdb29175b0b3" />
